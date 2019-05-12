@@ -45,6 +45,7 @@ tfoot 	{
 		 }
 .tfoot2	{
 			background-color: #949484;
+			text-align:center;
 		}
 .tr2:nth-of-type(even){
 							background-color:#74C5C5;
